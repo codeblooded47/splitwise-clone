@@ -1,5 +1,8 @@
 # Splitwise Clone
 
+![image](https://github.com/user-attachments/assets/30ab8d46-0946-4dfd-8b79-1f55502c2e42)
+
+
 A simplified clone of Splitwise built with FastAPI, PostgreSQL, and React.
 
 ## Features
